@@ -1,6 +1,6 @@
-# AI-and-Machine-Learning-on-Google-Cloud
+## AI-and-Machine-Learning-on-Google-Cloud
 
-AI Development Options available on Google Cloud
+# AI Development Options available on Google Cloud
 
 1.Pre-Trained APIs - Use ML Models that google already built and trained.
 
